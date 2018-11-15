@@ -19,6 +19,20 @@
       "num": "014",
       "type": "departure",
       "delay": false
+    },
+    {
+      "city": "Санкт-Петербург",
+      "time": "11:08",
+      "num": "1789",
+      "type": "arrival",
+      "delay": false
+    },
+    {
+      "city": "Мин. Воды",
+      "time": "13:50",
+      "num": "1390",
+      "type": "arrival",
+      "delay": false
     }
   ]
 }
